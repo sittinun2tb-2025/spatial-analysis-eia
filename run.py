@@ -223,7 +223,7 @@ ax_info.imshow(logo_img,
     aspect="auto", origin="upper", zorder=5, clip_on=True)
 
 ax_info.text(qr_x + qr_size / 2, logo_y - 0.01,
-    "สำนักงานนโยบายและแผน\nทรัพยากรธรรมชาติและสิ่งแวดล้อม (สผ.)",
+    "สำนักงานนโยบายและแผนก\nทรัพยากรธรรมชาติและสิ่งแวดล้อม (สผ.)",
     ha="center", va="top", fontsize=10, transform=ax_info.transAxes, linespacing=1.4, clip_on=True)
 
 plt.show()
