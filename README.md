@@ -243,4 +243,4 @@ ax_info.text(..., "สำนักงานนโยบายและแผน\
 
 ## ตัวอย่างผลลัพธ์
 
-![Example Map Layout](example_map_layout.jpg)
+![Output Map](output_map.png)
